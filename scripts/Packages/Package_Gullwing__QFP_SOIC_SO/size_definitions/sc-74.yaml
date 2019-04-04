@@ -1,8 +1,8 @@
 FileHeader:
   library_Suffix: 'SO'
-  device_type: 'TSOP'
+  device_type: 'SC-74'
 
-TSOP-6_1.50mmx2.90mm_P0.95mm:
+SC-74-6_1.50mmx2.90mm_P0.95mm:
   size_source: 'https://www.nxp.com/docs/en/package-information/SOT457.pdf'
   body_size_x:
     minimum: 1.3
